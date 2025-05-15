@@ -1,9 +1,9 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-Name: GAUTHAM KRISHNA S
+Name: PANGA THANUJA
 
-Regno: 212223240036
+Regno: 212224040231
 
 # Ex03-Linux IPC - Pipes
 
